@@ -1,0 +1,24 @@
+body{
+  background-image: linear-gradient(
+      rgba(255, 255, 255, 0.6), 
+      rgba(255, 255, 255, 0.6)),
+      url(Imagenes/25-postres.jpg)
+}
+h1{text-align: center;
+  font-size: 150px;color: rgb(77, 77, 151);
+}
+h2{font-size: 50px;
+background: linear-gradient(90deg,#4cbb17,
+ #ff2c48,
+  #fddb6b, 
+#c49349);-webkit-background-clip: text;
+  background-clip: text;-webkit-text-fill-color: transparent;
+font-weight: bolder;
+}
+img{
+  width: 350px; display: block; margin-left: auto; margin-right: auto;
+}
+h3{text-align: center;font-size: 80px; background:linear-gradient(#0f0, #717cb7 ); -webkit-background-clip: text;
+  background-clip: text;-webkit-text-fill-color: transparent;
+}
+p{font-size: x-large; font-weight: 300;}
